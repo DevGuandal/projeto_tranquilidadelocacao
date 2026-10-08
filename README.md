@@ -1,7 +1,7 @@
 # Rota Segura - Sistema de Locação de Veículos (TP1)
 
-**Aluno:** [SEU NOME COMPLETO]
-**Matrícula:** [SUA MATRÍCULA]
+**Aluno:** [SAMUEL GUANDALINI IGNACIO]
+**Matrícula:** [1301392611011]
 
 Aplicação de console em Java 17+ que gerencia frota, clientes e contratos de uma locadora, com persistência em arquivos de texto.
 
